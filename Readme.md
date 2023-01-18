@@ -1,6 +1,14 @@
 ## Partie Technique 
 
-PyQt5 est utilisé pour créer une interface graphique pour une application de bureau qui utilise l'ACP pour réduire la dimensionnalité des données en utilisant des widgets tels que QMainWindow, QPushButton, QLabel et QGraphicsView. Pandas est utilisé pour lire et stocker les données dans un DataFrame, et Matplotlib est utilisé pour créer un nuage de points des données après l'analyse PCA. L'ACP est utilisée pour faciliter la visualisation et l'analyse des données, ainsi que réduire le coût de calcul des algorithmes d'apprentissage automatique.
+- PyQt5 est utilisé pour créer une interface graphique pour une application de bureau qui utilise l'ACP pour réduire la dimensionnalité des données en utilisant des widgets tels que QMainWindow, QPushButton, QLabel et QGraphicsView. 
+
+- Pandas est utilisé pour lire et stocker les données dans un DataFrame, et Matplotlib est utilisé pour créer un nuage de points des données après l'analyse PCA. 
+
+- L'ACP est utilisée pour faciliter la visualisation et l'analyse des données, ainsi que réduire le coût de calcul des algorithmes d'apprentissage automatique.
+
+- Les modules utilisé :
+PyQt5 pandas matplotlib sklearn
+
 
 
 ## Partie Théorique
