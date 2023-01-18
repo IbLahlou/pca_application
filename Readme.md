@@ -12,7 +12,6 @@ Pour comprendre mieux le processus du PCA en white-box
     - On peut aussi extraire le coefficient de correlation pour savoir comment les données se corrèle entre eux
     - On pourra calculer l'inertie total pour optimiser le modèle afin d'avoir une projection compatible avec la réalité
 
-$$cov(\hat{X^{i},X^{j}})=/frac{<x^{i},x^{j}>}{\norm{X^{i}}\norm{X^{j}}}$$
 
 2. Calculer les vecteurs et les valeurs propres
     - Avec la réduction de la matrice covariance on trouvera des indicateurs qui nous fourniront des informations sur les axes et la directions des données .
