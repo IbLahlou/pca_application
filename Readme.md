@@ -34,6 +34,8 @@ Pour comprendre mieux le processus du PCA en white-box
 5. Stocker les variances expliquées par chaque composante principale
 6. Stocker les pourcentages de variances expliquées par chaque composante principale
 
+    - Nous auront ainsi le pourcentage de réduction de la dataset insérer dans l'application
+
 > Remarque :
 > La réduction de dimension est d’autant plus forte que les variables de départ sont plus corrélées
 
